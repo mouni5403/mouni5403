@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF=8">
+        <meta name="viewpoint" content="width=device-width,intial-scale=1.0">
+        <title>Text formatting</title>
+    </head>
+    <body>
+
+        <header>
+            <h1>welcome to my website</h1>
+
+            <nav>
+
+            </nav>    
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+
+
+        </header>
+
+        <main>
+
+            <section>
+              <h1>This is a section</h1>  
+            </section>
+            <article>
+                <h1>This is an article</h1>
+            </article>
+                    <aside>
+                          <h1>This is an aside</h1>
+
+                    </aside>
+                    
+            <h2>This is the main content area</h2>
+            <p>This website is used to everyting related to HTML and CSS.</p>
+            <p>HTML stands for Hyper Text Markup Language.</p>
+            <p>CSS stands for Cascading Style Sheets.</p>
+        </main>    
+
+        <footer>this is the footer section</footer>
+
+
+
+    </body>
+</html>
